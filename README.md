@@ -53,15 +53,4 @@ I worked on the **mood dataset** — collecting and labeling the FER2013 subset 
 - Makeup artists (MUA) — quickly and objectively confirm a client's undertone
 - Personal use — a quick, no-guesswork way to shop for makeup online
 
-## Team
-
-Group project (PKM-AI), Cyber Security program — BINUS University:
-- Aulia Eunike Butarbutar
-- **Kineta Valerie Prudentia Wibisono**
-- Nicole Alexandra Wong
-- Nadia Amelia Ramadhani
-
-Supervised by Irvan Santoso, S.Kom., M.TI.
-
----
 *Built for an academic AI course project. Trained and demoed in Google Colab / Gradio.*
