@@ -53,4 +53,9 @@ I worked on the **mood dataset** — collecting and labeling the FER2013 subset 
 - Makeup artists (MUA) — quickly and objectively confirm a client's undertone
 - Personal use — a quick, no-guesswork way to shop for makeup online
 
+## Team
+
+Group project (PKM-AI), Cyber Security program — BINUS University, supervised by our course lecturer.
+
+---
 *Built for an academic AI course project. Trained and demoed in Google Colab / Gradio.*
